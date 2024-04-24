@@ -18,7 +18,10 @@
 <a href="https://www.linkedin.com/in/lucas-bohrer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Bohrer" height="40" width="50"/></a>
 </p>
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Bohrer21&show_icons=true&theme=gotham)
+<div>
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=Bohrer21&show_icons=true&theme=dark")/>
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bohrer21&layout=compact&theme=dark")/>
+</div>
 
 ## 🔥 Skills
 
