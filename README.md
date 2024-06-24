@@ -29,9 +29,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js)](https://skillicons.dev)
   
-<h3>Tools & Frameworks</h3>
+<h3>Ferramentas e Frameworks</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse,github,laravel,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,github,laravel,vscode,spring)](https://skillicons.dev)
+
+<h3>Banco de dados</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ## Portfolio:
 <p>
