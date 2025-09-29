@@ -5,7 +5,7 @@
 
 <p>
 
-  - 🌱 Eu tenho 20 anos e sou do Rio de Janeiro.
+  - 🌱 Eu tenho 21 anos e sou do Rio de Janeiro.
 
   - 🎓 Atualmente estou cursando Ciências da Computação.
 
