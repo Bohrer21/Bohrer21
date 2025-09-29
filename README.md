@@ -14,7 +14,7 @@
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
-<a href="https://www.instagram.com/_bohrerzin_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bohrerzin_" height="40" width="50"/></a>
+<a href="https://www.instagram.com/bohrerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bohrerzin_" height="40" width="50"/></a>
 <a href="https://www.linkedin.com/in/lucas-bohrer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Bohrer" height="40" width="50"/></a>
 </p>
 
